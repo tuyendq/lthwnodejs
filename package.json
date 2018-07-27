@@ -1,0 +1,21 @@
+{
+  "name": "lthwnodejs",
+  "version": "0.0.1",
+  "description": "Learn node.js the Hard Way",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuyendq/lthwnodejs.git"
+  },
+  "keywords": ["nodejs"],
+  "author": "Tuyen Dang",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/tuyendq/lthwnodejs/issues"
+  },
+  "homepage": "https://github.com/tuyendq/lthwnodejs#readme"
+}
