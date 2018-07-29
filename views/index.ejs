@@ -5,7 +5,17 @@
     </head>
     <body id="<%= pageId %>">
         <% include partials/templates/header.ejs %>
+        <div class="container-fluid">
+            <div class="row h-100">
+                <main class="col-12 col-sm-8 center-v-h">
+                    <% include partials/content/main.ejs %>
+                </main>
+                <aside class="col-12 col-sm-4">
 
+                </aside>
+                
+            </div>
+        </div>
 
         <% include partials/templates/footer.ejs %>
         <% include partials/templates/bootstrap.ejs %>

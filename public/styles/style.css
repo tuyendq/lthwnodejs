@@ -1,4 +1,6 @@
 html {font-size: 16px;}
 body {
-    background-color: #466b79;
+    background-color: #007bff;
 }
+.author {font-weight: 500;font-style: italic;}
+.center-v-h {margin-top: auto !important; margin-bottom: auto !important;}
