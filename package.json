@@ -12,7 +12,7 @@
     "url": "git+https://github.com/tuyendq/lthwnodejs.git"
   },
   "keywords": [
-    "nodejs"
+    "nodejs, express"
   ],
   "author": "Tuyen Dang",
   "license": "MIT License",
