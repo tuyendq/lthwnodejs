@@ -2,7 +2,7 @@
   "name": "lthwnodejs",
   "version": "0.0.1",
   "description": "Learn node.js the Hard Way",
-  "main": "app/app.jsjs",
+  "main": "app/app.js",
   "scripts": {
     "start": "node app/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
