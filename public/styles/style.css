@@ -4,4 +4,6 @@ body {
 }
 #container {height: 100vh;}
 .author {font-weight: 500;font-style: italic;}
+.author-img {width: 100%; height: auto;}
+.author-name {font-weight: 500; font-style: italic;}
 .center-v-h {margin-top: auto !important; margin-bottom: auto !important;}
