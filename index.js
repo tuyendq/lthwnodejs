@@ -11,6 +11,7 @@ app.locals.siteTitle = "LTHW NodeJS";
 
 app.use(express.static('./public'));
 app.use(require('./routes/index'));
+app.use(require('./routes/about'));
 
 
 var server = app.listen(app.get('port'), function(){

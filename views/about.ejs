@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <% include partials/templates/head.ejs %>
+    </head>
+    <body id="<%= pageId %>">
+        <% include partials/templates/header.ejs %>
+        <div id="container" class="container-fluid">
+            <div class="row h-100">
+                <main class="col-12 center-v-h">
+                    <% include partials/content/about.ejs %>
+                </main>            
+            </div>
+        </div>
+
+        <% include partials/templates/footer.ejs %>
+        <% include partials/templates/bootstrap.ejs %>
+    </body>
+</html>
