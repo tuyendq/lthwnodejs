@@ -1,0 +1,22 @@
+Invoke-RestMethod -Uri http://localhost:3000/quotes/
+
+
+$Url = 'http://localhost:3000/quotes'
+$Body = @{
+    'quote': 'We become what we think about.'
+    'author': 'Earl Nightingale'
+}
+
+$Body = @'
+{
+ "quote":"We become what we think about.",
+ "We become what we think about.":"Earl Nightingale",
+ "year": "1965"
+}
+'@
+Invoke-RestMethod -Method 'Post' -Uri $url -Body $body
+
+export URL=http://localhost:3000/quotes
+curl -X POST -H "Content-Type: application/json" \
+ -d '{"quote":"We become what we think about.","We become what we think about.":"Earl Nightingale"}' \
+ $URL
