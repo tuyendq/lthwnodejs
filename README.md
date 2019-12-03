@@ -1,5 +1,5 @@
 ﻿# Learn node.js the Hard Way
-This website is based on several LinkedIn courses:
+Content is based on several courses:
 - "Building a Website with Node.js and Express.js" taught by Ray Villalobos
 - "Express Essential Training" taught by Emmanuel Henri
 - [Introduction to NodeJS](https://www.edx.org/course/introduction-to-nodejs-0) on edX.org
