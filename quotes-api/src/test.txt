@@ -11,7 +11,7 @@ $Url = 'http://localhost:3000/quotes'
 $Body = @'
 {
  "quote":"We become what we think about.",
- "We become what we think about.":"Earl Nightingale",
+ "author":"Earl Nightingale",
  "year": "1965"
 }
 '@
