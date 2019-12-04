@@ -2,20 +2,29 @@
 
 const http = require('http')
 const qs = require('querystring')
+
+// const params = {
+//     quote: 'Whatever you do, do it well.', 
+//     author: 'Walt Disney'
+// }
+
 const params = {
-    quote: 'Whatever you do, do it well.', 
-    author: 'Walt Disney'
+    quote: 'If you tell the truth you don\'t have to remember anything.', 
+    author: 'Mark Twain'
 }
 
 const postData = qs.stringify(params)
 
-// const postData = JSON.stringify({ quote: 'Whatever you do, do it well.', author: 'Walt Disney' })
+// const postData = JSON.stringify({ 
+//     quote: 'Whatever you do, do it well.', 
+//     author: 'Walt Disney'
+// })
 
 const options = {
-    // hostname: 'quotesapi-quotes.apps.us-west-1.starter.openshift-online.com',
-    // port: 80,
-    hostname: 'localhost',
-    port: 8080,
+    hostname: 'quotesapi-quotes.apps.us-west-1.starter.openshift-online.com',
+    port: 80,
+    // hostname: 'localhost',
+    // port: 8080,
     path: '/quotes',
     method: 'POST',
     headers: {
