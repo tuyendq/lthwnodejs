@@ -1,0 +1,20 @@
+{
+  "name": "npm-project",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1",
+    "mocha": "^6.2.2",
+    "superagent": "3.6.3"
+  },
+  "devDependencies": {
+    "axios": "^0.19.0"
+  }
+}
