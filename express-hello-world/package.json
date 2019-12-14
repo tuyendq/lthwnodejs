@@ -1,0 +1,19 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "description": "Express Hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node-dev app.js"
+  },
+  "keywords": [],
+  "author": "Tuyen Dang",
+  "license": "ISC",
+  "devDependencies": {
+    "node-dev": "4.0.0"
+  },
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
