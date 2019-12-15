@@ -2,22 +2,20 @@
 var http = require('http')
 var util = require('util')
 var querystring = require('querystring')
-var dotenv = require('dotenv')
-dotenv.config()
+var dotenv = require('dotenv').config()
+// dotenv.config()
 console.log(process.env.MONGOLAB_URI)
-var client = require('mongodb').MongoClient
+var MongoClient = require('mongodb').MongoClient
 
 var uri = process.env.MONGOLAB_URI || 'mongodb://@127.0.0.1:27017/book'
 //MONGOLAB_URI=mongodb://user:pass@server.mongohq.com:port/db_name
 
-client.connect(uri, function(error, db) {
+MongoClient.connect(uri, { useUnifiedTopology: true }, function(error, client) {
     if (error) return console.error(error)
-    // var collection = db.collection('bookDetails')
-    var collection = db.collection('bookDetails')
-    
-    var app = http.createServer(function(resquest, response) {
-        var origin = (resquest.headers.origin || '*')
-        if (resquest.method == 'OPTIONS') {
+    const collection = client.db('book').collection('bookDetails')
+    var app = http.createServer(function(request, response) {
+        var origin = (request.headers.origin || '*')
+        if (request.method == 'OPTIONS') {
             response.writeHead('204', 'No Content', {
                 'Access-Control-Allow-Origin': origin,
                 'Access-Control-Allow-Method': 'GET, POST, PUT, DELETE, OPTIONS',
