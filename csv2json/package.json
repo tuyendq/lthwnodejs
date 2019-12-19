@@ -1,0 +1,16 @@
+{
+  "name": "csv2json",
+  "version": "1.0.0",
+  "description": "Using csvtojson",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "2.0.10"
+  }
+}
