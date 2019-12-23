@@ -33,24 +33,37 @@ app.get('/scrape', function(req, res) {
 
         var data = $("#mobile").parsetable(true, true, true)
 
-        let jsonObj = {id: "", cn: "", pinyin: "", en: ""}
+        // let jsonObj = {id: "", cn: "", pinyin: "", en: ""}
+
+        let jsonData = []
 
         for (let i = 1; i < data[0].length; i++) {
             for (let j = 0; j < data.length; ) {
                 // skip table head column
                 if (data[j][i] === 'No.') break
+                
+                let jsonObj = {id: "", cn: "", pinyin: "", en: ""}
                 jsonObj.id = data[j++][i]
                 jsonObj.cn = data[j++][i]
                 jsonObj.pinyin = data[j++][i]
                 jsonObj.en = data[j++][i]
+
+                jsonData.push(jsonObj)
             }
             // cross check jsonObj while developing
             // console.log(jsonObj)
+
+            
+
             // append to output.json file
-            fs.appendFile('output.json', JSON.stringify(jsonObj, null,2), function(err){
-                if (err) throw error
-            })
+            // fs.appendFile('output.json', JSON.stringify(jsonObj, null,2), function(err){
+            //     if (err) throw error
+            // })
         }
+
+        fs.appendFile('output.json', JSON.stringify(jsonData, null,2), function(err){
+            if (err) throw error
+        })        
 
         res.send('Check you console!')
         
