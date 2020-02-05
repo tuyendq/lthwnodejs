@@ -20,11 +20,19 @@
   },
   "homepage": "https://github.com/tuyendq/lthwnodejs#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "1.19.0",
     "csv-parser": "^2.3.2",
+<<<<<<< HEAD
+    "dotenv": "^8.2.0",
+    "ejs": "^2.6.1",
+    "express": "4.17.1",
+    "mongodb": "^3.4.0",
+    "morgan": "1.9.1"
+=======
     "dotenv": "8.2.0",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "mongodb": "3.4.0"
+>>>>>>> ba8b7a12ed59f74cf512192c9241ee990ae3759b
   }
 }
