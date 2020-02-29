@@ -1,0 +1,13 @@
+{
+  "name": "txt2csv",
+  "version": "1.0.0",
+  "description": "Convert text file to csv",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["text", "csv"],
+  "author": "Tuyen Dang",
+  "license": "ISC"
+}

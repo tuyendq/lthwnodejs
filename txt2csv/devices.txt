@@ -1,0 +1,473 @@
+Name
+Enabled
+OS
+Version
+Join Type
+Owner
+User name
+MDM
+Compliant
+Registered
+Activity
+DESKTOP-2092TV2
+Yes
+Windows
+10.0.18362.0
+Azure AD joined
+Nhi Dao | Verity Law
+nhi.dao@veritylaw.com.au
+None
+N/A
+2/1/2019, 5:19:43 PM
+2/17/2020, 6:19:52 AM
+T420
+Yes
+Windows
+10.0.18362.0
+Azure AD registered
+Tuyen Dang | Verity Law
+Tuyen.Dang@veritylaw.com.au
+None
+N/A
+2/18/2020, 8:12:52 AM
+2/18/2020, 8:12:52 AM
+NhiDao
+Yes
+Windows
+10.0.18362.0
+Azure AD registered
+Diep Anh Tran | Verity Law
+diepanh.tran@veritylaw.com.au
+None
+N/A
+2/19/2020, 8:54:27 AM
+2/19/2020, 8:54:27 AM
+NhiDao
+Yes
+Windows
+10.0.18362.0
+Azure AD registered
+Legal | Verity Law
+legal@veritylaw.com.au
+None
+N/A
+11/8/2019, 11:37:29 AM
+2/19/2020, 8:18:06 AM
+DESKTOP-36RFB14
+Yes
+Windows
+10.0.18363.0
+Azure AD registered
+Linh Le | Verity Law
+linh.le@veritylaw.com.au
+None
+N/A
+2/28/2020, 3:52:37 PM
+2/28/2020, 3:52:37 PM
+ShaniceSurfacePro4
+Yes
+Windows
+10.0.15063.0
+Azure AD registered
+Shanice Hoang | Verity Law
+shanice.hoang@veritylaw.com.au
+None
+N/A
+5/23/2017, 6:02:51 AM
+5/23/2017, 6:02:51 AM
+Dellee
+Yes
+Windows
+10.0.17134.0
+Azure AD registered
+Nhi Dao | Verity Law
+nhi.dao@veritylaw.com.au
+None
+N/A
+9/18/2018, 8:36:22 PM
+2/16/2020, 6:52:28 AM
+DESKTOP-5JFCV1H
+Yes
+Windows
+10.0.18362.0
+Azure AD registered
+Ben Payne | Verity Law
+Ben.Payne@veritylaw.com.au
+None
+N/A
+2/4/2020, 1:20:45 PM
+2/19/2020, 5:59:50 AM
+QuyenDoan
+Yes
+Windows
+10.0.17134.0
+Azure AD registered
+Quyen Doan | Verity Law
+quyen.doan@veritylaw.com.au
+None
+N/A
+5/13/2019, 7:03:28 AM
+7/24/2019, 8:20:24 AM
+Namnguyen
+Yes
+Windows
+10.0.18362.0
+Azure AD registered
+Nam Nguyen | Verity Law
+nam.nguyen@veritylaw.com.au
+None
+N/A
+2/25/2020, 5:37:35 AM
+2/25/2020, 5:37:35 AM
+DESKTOP-C7I2KN4
+Yes
+Windows
+10.0.17134.0
+Azure AD registered
+Victor Nguyen | Verity Law
+victor.nguyen@veritylaw.com.au
+None
+N/A
+8/19/2019, 9:07:24 AM
+2/12/2020, 5:40:39 AM
+DESKTOP-JV3H6P8
+Yes
+Windows
+10.0.17763.0
+Azure AD registered
+Quyen Doan | Verity Law
+quyen.doan@veritylaw.com.au
+None
+N/A
+7/25/2019, 1:19:49 PM
+7/25/2019, 1:19:49 PM
+anh_laptop
+Yes
+Windows
+10.0.18362.0
+Azure AD joined
+David Doan | Verity Law
+david.doan@veritylaw.com.au
+None
+N/A
+4/18/2018, 6:09:11 PM
+9/17/2019, 8:07:10 AM
+DavidDoan
+Yes
+Windows
+10.0.15063.0
+Azure AD registered
+David Doan | Verity Law
+david.doan@veritylaw.com.au
+None
+N/A
+8/31/2017, 6:09:39 PM
+8/31/2017, 6:09:39 PM
+DungDoan
+Yes
+Windows
+Windows 10
+Azure AD registered
+David Doan | Verity Law
+david.doan@veritylaw.com.au
+None
+N/A
+5/24/2016, 7:09:53 AM
+7/19/2018, 10:34:57 AM
+DESKTOP-QICVMHJ
+Yes
+Windows
+10.0.18362.0
+Azure AD registered
+Hai-Anh Nguyen | Verity Law
+anh.nguyen@veritylaw.com.au
+None
+N/A
+2/13/2020, 10:42:21 AM
+2/28/2020, 9:01:16 AM
+DESKTOP-QS7J9M9
+Yes
+Windows
+10.0.17763.0
+Azure AD registered
+Lily Nguyen | Verity Law
+lily.nguyen@veritylaw.com.au
+None
+N/A
+8/21/2019, 9:35:06 AM
+2/14/2020, 3:33:33 AM
+NhiDao
+Yes
+Windows
+10.0.18362.0
+Azure AD registered
+Migration | Verity Law
+migration@veritylaw.com.au
+None
+N/A
+9/26/2019, 8:17:35 AM
+11/5/2019, 9:42:36 AM
+DESKTOP-36RFB14
+Yes
+Windows
+10.0.17134.0
+Azure AD registered
+Tim Nguyen | Verity Law
+tim.nguyen@veritylaw.com.au
+None
+N/A
+8/1/2019, 7:03:09 AM
+2/19/2020, 5:14:43 AM
+DESKTOP-5E04HBO
+Yes
+Windows
+10.0.17134.0
+Azure AD registered
+Mary Vu | Verity Law
+mary.vu@veritylaw.com.au
+None
+N/A
+5/10/2019, 3:22:37 AM
+2/22/2020, 8:34:47 AM
+DESKTOP-78U71NS
+Yes
+Windows
+10.0.18362.0
+Azure AD registered
+Victor Nguyen | Verity Law
+victor.nguyen@veritylaw.com.au
+None
+N/A
+2/17/2020, 8:23:48 AM
+2/17/2020, 8:23:48 AM
+DavidDoan
+Yes
+Windows
+10.0.16299.0
+Azure AD registered
+Tim Luu | Verity Law
+tim.luu@veritylaw.com.au
+None
+N/A
+11/15/2017, 12:37:05 PM
+2/21/2020, 5:58:39 AM
+DungDoan
+Yes
+Windows
+10.0.17134.0
+Azure AD registered
+Nhi Dao | Verity Law
+nhi.dao@veritylaw.com.au
+None
+N/A
+7/14/2018, 9:50:35 AM
+7/14/2018, 9:50:35 AM
+DESKTOP-70EI7C6
+Yes
+Windows
+10.0.17763.0
+Azure AD registered
+Shanice Hoang | Verity Law
+shanice.hoang@veritylaw.com.au
+None
+N/A
+3/14/2019, 1:29:09 PM
+2/27/2020, 3:34:09 PM
+DESKTOP-J6NLCGU
+Yes
+Windows
+10.0.17134.0
+Azure AD registered
+Phuong Pham | Verity Law
+phuong.pham@veritylaw.com.au
+None
+N/A
+7/19/2019, 10:27:17 AM
+2/19/2020, 10:18:53 AM
+DESKTOP-90O71OC
+Yes
+Windows
+10.0.18362.0
+Azure AD registered
+Mi Nguyen | Verity Law
+mi.nguyen@veritylaw.com.au
+None
+N/A
+10/7/2019, 1:49:51 PM
+2/17/2020, 11:47:48 AM
+Adi
+Yes
+Windows
+10.0.18362.0
+Azure AD registered
+Hai-Anh Nguyen | Verity Law
+anh.nguyen@veritylaw.com.au
+None
+N/A
+11/30/2019, 2:43:04 PM
+2/27/2020, 7:07:36 PM
+FincorPC
+Yes
+Windows
+Windows 10
+Azure AD registered
+None
+None
+None
+N/A
+3/11/2017, 7:15:10 AM
+3/11/2017, 7:15:10 AM
+DESKTOP-78POP61
+Yes
+Windows
+10.0.17763.0
+Azure AD registered
+Shanice Hoang | Verity Law
+shanice.hoang@veritylaw.com.au
+None
+N/A
+3/24/2019, 4:37:44 PM
+2/18/2020, 10:05:43 AM
+ShaniceSurfacePro4
+Yes
+Windows
+10.0.15063.0
+Azure AD registered
+Nam Nguyen | Verity Law
+nam.nguyen@veritylaw.com.au
+None
+N/A
+8/30/2017, 8:37:08 AM
+2/20/2020, 9:35:35 AM
+David
+Yes
+Windows
+10.0.17134.0
+Azure AD registered
+Nathan Le | Verity Law
+nathan.le@veritylaw.com.au
+None
+N/A
+6/24/2019, 1:47:23 PM
+2/26/2020, 12:09:16 PM
+DESKTOP-GCIB5TL
+Yes
+Windows
+10.0.17134.0
+Azure AD registered
+Victor Nguyen | Verity Law
+victor.nguyen@veritylaw.com.au
+None
+N/A
+12/7/2018, 5:24:56 AM
+7/24/2019, 5:53:30 AM
+Crossfire-woaga
+Yes
+Windows
+10.0.17134.0
+Azure AD registered
+Tim Luu | Verity Law
+tim.luu@veritylaw.com.au
+None
+N/A
+3/15/2019, 8:56:26 AM
+2/23/2020, 1:20:37 PM
+DESKTOP-QS7J9M9
+Yes
+Windows
+10.0.17763.0
+Azure AD registered
+Ha Tran | Verity Law
+ha.tran@veritylaw.com.au
+None
+N/A
+2/7/2020, 11:49:17 AM
+2/23/2020, 5:50:55 AM
+LinhNguyenVL
+Yes
+Windows
+10.0.18363.0
+Azure AD joined
+Linh Nguyen | Verity Law
+linh.nguyen@veritylaw.com.au
+None
+N/A
+10/12/2018, 10:50:11 AM
+2/17/2020, 10:21:20 AM
+DESKTOP-78U71NS
+Yes
+Windows
+10.0.18362.0
+Azure AD registered
+Hai-Anh Nguyen | Verity Law
+anh.nguyen@veritylaw.com.au
+None
+N/A
+9/18/2019, 8:49:29 AM
+2/3/2020, 5:42:41 AM
+DESKTOP-68RL6CN
+Yes
+Windows
+10.0.17134.0
+Azure AD registered
+Phuong Pham | Verity Law
+phuong.pham@veritylaw.com.au
+None
+N/A
+9/4/2019, 2:24:58 PM
+2/24/2020, 4:47:42 PM
+NhiDao
+Yes
+Windows
+10.0.17134.0
+Azure AD registered
+Hai-Anh Nguyen | Verity Law
+anh.nguyen@veritylaw.com.au
+None
+N/A
+2/12/2019, 5:19:46 AM
+9/19/2019, 3:33:23 PM
+DESKTOP-H4QDN1J
+Yes
+Windows
+10.0.17763.0
+Azure AD registered
+David Doan | Verity Law
+david.doan@veritylaw.com.au
+None
+N/A
+9/12/2019, 7:47:47 AM
+2/29/2020, 10:57:49 AM
+DESKTOP-8524Q4A
+Yes
+Windows
+10.0.17134.0
+Azure AD registered
+Nam Nguyen | Verity Law
+nam.nguyen@veritylaw.com.au
+None
+N/A
+5/22/2019, 10:10:39 AM
+8/25/2019, 7:44:13 AM
+DESKTOP-KE4M9DI
+Yes
+Windows
+10.0.15063.0
+Azure AD registered
+Shanice Hoang | Verity Law
+shanice.hoang@veritylaw.com.au
+None
+N/A
+8/23/2017, 10:55:25 AM
+8/6/2018, 11:07:45 AM
+DESKTOP-L3TJ1U0
+Yes
+Windows
+10.0.17763.0
+Azure AD registered
+Kieu Nguyen | Verity Law
+kieu.nguyen@veritylaw.com.au
+None
+N/A
+5/6/2019, 6:46:52 AM
+2/17/2020, 10:51:05 AM
