@@ -4,8 +4,11 @@ const path = require('path');
 
 const txtFile = process.argv[2];
 const numFields = process.argv[3];
+const csvFile = path.basename(txtFile) + '.csv';
+
 console.log(`Filename: ${txtFile}`);
 console.log(`Number of fields: ${numFields}`);
+
 
 let count = 1;
 const rl = readline.createInterface({
@@ -15,12 +18,18 @@ const rl = readline.createInterface({
 });
 let row = '';
 rl.on('line', (line) => {
-    
-    console.log(`${count}: "${line.trim()}"`);
-    row = row + line.trim();
+    // console.log(`${count}: "${line.trim()}"`);
+    row = row + '"' + line.trim() + '"';
     if ((count % numFields) === 0) {
+        console.log(row);
         console.log('===============');
+        row = row + '\n';
+        fs.appendFile(csvFile, row, (err) => {
+            if (err) throw err;
+        });
         row = ''; // reset row
+    } else {
+        row = row + ',';
     }
     count++;
 });
