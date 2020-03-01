@@ -2,9 +2,14 @@ const fs = require('fs');
 const readline = require('readline');
 const path = require('path');
 
+if (process.argv.length !== 4) {
+    console.log(`==========\nUsage: node index.js textFile number-of-fiels\n==========`);
+    process.exit(1);
+}
+
 const txtFile = process.argv[2];
 const numFields = process.argv[3];
-const csvFile = path.basename(txtFile) + '.csv';
+const csvFile = path.basename(txtFile, '.txt') + '.csv';
 
 console.log(`Filename: ${txtFile}`);
 console.log(`Number of fields: ${numFields}`);
@@ -34,7 +39,8 @@ rl.on('line', (line) => {
     count++;
 });
 rl.on('close', () => {
-    console.log(`Number of lines: ${count}`);
+    console.log(`Number of lines: ${--count}`);
+    console.log(`Check output file: ${csvFile}`);
 })
 
 /**
